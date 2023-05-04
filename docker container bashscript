@@ -1,0 +1,21 @@
+
+#!/bin/bash
+apt update -y
+  
+   apt install net-tools -y 
+  apt install openssh-server -y 
+ apt install ssh  -y 
+   apt install python3 -y 
+  apt upgrade  -y
+  apt install nano -y 
+   apt install firewalld -y
+
+ apt install software-properties-common -y
+     apt install software-properties-common -y 
+ sudo add-apt-repository --yes --update ppa:ansible/ansible -y 
+ add-apt-repository --yes --update ppa:ansible/ansible -y 
+    apt install ansible -y 
+
+apt-get install -y iputils-ping
+
+    apt install ufw  -y 
