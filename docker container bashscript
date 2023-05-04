@@ -9,7 +9,7 @@ apt update -y
   apt upgrade  -y
   apt install nano -y 
    apt install firewalld -y
-
+ apt-get install iproute2  -y 
  apt install software-properties-common -y
      apt install software-properties-common -y 
  sudo add-apt-repository --yes --update ppa:ansible/ansible -y 
