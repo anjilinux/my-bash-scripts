@@ -16,7 +16,7 @@ apt update -y
  add-apt-repository --yes --update ppa:ansible/ansible -y 
     apt install ansible -y 
 apt install systemctl 
-
+apt install sudo 
 apt-get install -y iputils-ping
 
     apt install ufw  -y 
